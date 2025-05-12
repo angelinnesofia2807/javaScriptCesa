@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../estilos/style.css">
+ <script src="../js/ejercicio1.js"></script>
+</head>
+<body>
+    <div class="contenedor">
+        <h2>Calcular Total con IVA</h2>
+            <table>
+               <tr>
+                <td>Precio del producto:</td>
+               </tr>
+                 <tr>
+                   <td><input id="precio" type="number"></td>
+                </tr>
+                <tr>
+                   <td>IVA (%):</td>
+                </tr>
+                  <td><input id="iva" type="number"></td>
+                </tr>
+                <br><br>
+                <tr>
+                  <td><button onclick="calcularTotal()">Calcular</button></td>
+                </tr>
+                  <tr>
+                    <td><pre id="resultado"></pre></td>
+                </tr>
+            </table>
+    </div>
+</body>
+</html>
