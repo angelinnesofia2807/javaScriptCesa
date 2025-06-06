@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "el despertar",
+    "autor": "miguel mestal",
+    "numeroPaginas": 110,
+    "editorial": "amarante",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "leyenda del herbozonia",
+    "autor": "alberto prieto riquelme",
+    "numeroPaginas": 292,
+    "editorial": "amarante",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "chirimiri, la corriente de un rio ",
+    "autor": "ramiro pinto cañon",
+    "numeroPaginas": 720,
+    "editorial": "amarante",
+    "idioma": "Español"
+  }
+]
